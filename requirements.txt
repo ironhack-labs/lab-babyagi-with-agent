@@ -1,0 +1,12 @@
+# Python 3.10+ recommended for this notebook
+
+langchain>=0.3.28
+langchain-community>=0.4.1
+langchain-openai>=1.2.1
+langchain-classic>=1.0.7
+langchain-experimental>=0.3.4
+faiss-cpu>=1.11.0
+openai>=2.36.0
+tiktoken>=0.12.0
+python-dotenv>=1.2.2
+google-search-results>=2.4.2
